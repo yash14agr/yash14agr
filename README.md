@@ -1,15 +1,26 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Agrawal
-====================================================================================================================================
+![github-header-image (2)](https://user-images.githubusercontent.com/97373985/210387324-f318f4a6-1430-452b-a7b0-130a74e2282c.png)
 
-MERN stack developer
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yash Agrawal
+====================================================================================================================================
+<h3 align="center">An Enthusiast MERN stack developer and Coder !!!</h3> -->
+
 --------------------
 
-Student in RCOEM studying in 3rd year. I have been learning coding for 1 year.
+Student in RCOEM and have been learning coding for 2 year.
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [yash1402agr@gmail.com](mailto:yash1402agr@gmail.com)
-* 🧠  I'm learning React, MongoDB, express
+--------------------
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/97373985/210380873-079c9c43-3509-44df-82d9-a7389d71af1b.gif">
+
+<!-- ![goku-songoku](https://user-images.githubusercontent.com/97373985/210380873-079c9c43-3509-44df-82d9-a7389d71af1b.gif) -->
+
+* 🧠  I'm learning React, MongoDB, express
 * 🤝  I'm open to collaborating on MERN projects
+* 🔭  I’m currently working on Backend Development
+* 🌍  I'm from India
+* ✉️  You can contact me at [yash1402agr@gmail.com](mailto:yash1402agr@gmail.com)
+* ⚡ Fun fact : I am a fan of Goku
+
+--------------------
 
 ### Skills
 
@@ -34,12 +45,20 @@ Student in RCOEM studying in 3rd year. I have been learning coding for 1 year.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+--------------------
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/yash14agr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yashagrawal1402" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/yash14agr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/yash._agr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yashagrawal1402" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+--------------------
 
 ### Badges
+
+<!-- [![@yash14agr's Holopin board](https://holopin.io/api/user/board?user=yash14agr)](https://holopin.io/@yash14agr) -->
+[![An image of @yash14agr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yash14agr)](https://holopin.io/@yash14agr)
+
+--------------------
 
 <b>My GitHub Stats</b>
 
@@ -50,3 +69,5 @@ Student in RCOEM studying in 3rd year. I have been learning coding for 1 year.
 <a href="http://www.github.com/yash14agr"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yash14agr&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/yash14agr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash14agr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+--------------------
