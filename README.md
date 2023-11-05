@@ -8,7 +8,7 @@
 
 --------------------
 
-Student in RCOEM and have been learning coding for 2 year.
+Student in RCOEM and have been learning coding for 3 year.
 
 --------------------
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/97373985/210380873-079c9c43-3509-44df-82d9-a7389d71af1b.gif">
